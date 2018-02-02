@@ -1,3 +1,7 @@
 [submodule "themes/hemingway"]
 	path = themes/hemingway
 	url = https://github.com/tanksuzuki/hemingway.git
+[submodule "public"]
+	path = public
+	url = https://github.com/dooglegh/dooglegh.github.io.git
+	branch = master
