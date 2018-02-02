@@ -1,3 +1,6 @@
-baseURL = "http://dooglegh.github.io/"
-languageCode = "Ko-kr"
+baseURL = "https://dooglegh.github.io"
+languageCode = "ko"
+defaultcontentlanguage= "ko"
+hascjklanguage= true
+theme= "hemingway"
 title = "두글이의 블로그"
